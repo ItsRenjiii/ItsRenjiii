@@ -20,6 +20,7 @@ Now applying that same engineering mindset to AI research, agent architectures, 
 - **Automotive:** Advanced diagnostics, electrical systems, PCB-level repair, custom engine harnesses, engine building, ECU remapping and performance calibration.
 - **Mechanical Engineering:** CAD, Blender, 3D modelling, spatial design, fabrication, MIG/TIG/ARC welding and mechanical systems.
 - **Electronics & Embedded:** Arduino, microcontrollers, circuit design, oscilloscope diagnostics, stepper motors and CNC control.
+- **PC Hardware & Systems:** Creating PC's since 2003, enthusiast water-cooling from the early White Water / Maze3 era, custom hardline acrylic and soft tubing loops, pump and radiator optimisation, thermal management, overclocking and bespoke system integration.
 - **Simulation & Physics:** Fluid dynamics, aerodynamics, gas flow, pressure systems, vehicle dynamics and real-time physics.
 - **Digital Manufacturing:** 3D printing, CNC machining, prototyping and custom hardware fabrication.
 
